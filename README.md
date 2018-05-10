@@ -1,8 +1,6 @@
 # Kefeng's Blog
 
-I am always trying to write some blogs, but I am too lazy to setup a blog website for myself. 
-
-But now, I have decided to use Github as my personal blog, since I have written some documents for my team, and realised a GIT repository might be a good place for blogging.
+Using [Github Issue](https://github.com/kdeng/blogs/issues) as personal blog.
 
 ### About me
 
