@@ -1,4 +1,5 @@
 github: [metadata]
+baseurl: /my-blogs
 encoding: UTF-8
 kramdown:
   input: GFM
