@@ -1,5 +1,5 @@
 github: [metadata]
-baseurl: https://github.com/kdeng/my-blogs
+baseurl: /my-blogs
 encoding: UTF-8
 kramdown:
   input: GFM
